@@ -18,10 +18,10 @@ Yes. There are five pages including the home page.
 My site
 
 [Link to my site](https://kangdmi.github.io/skills-github-pages/)
--->
+
 
 [Review my site here](https://www.coursera.org/learn/introduction-to-devsecops/peer/UiuSv/building-a-website/review/n7zt4NzNEe-b0hLapXY8VQ)
-
+-->
 
 
 Thank you
