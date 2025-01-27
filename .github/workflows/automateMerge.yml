@@ -1,0 +1,33 @@
+name: Auto-Merge
+
+
+
+on:
+
+  push:
+
+    branches: branch-2
+
+
+
+jobs:
+
+  merge:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - run: |
+
+          git fetch origin
+
+          git checkout feature-branch
+
+          git pull origin feature-branch
+
+          git merge origin/main
+
+          git push origin branch-2
