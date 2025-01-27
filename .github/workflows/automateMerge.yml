@@ -22,12 +22,12 @@ jobs:
 
       - run: |
 
-          git fetch origin
+          git fetch branch-2
 
           git checkout branch-2
 
           git pull origin branch-2
 
-          git merge origin/main
+          git mergebranch-2/branch-1
 
           git push origin branch-2
