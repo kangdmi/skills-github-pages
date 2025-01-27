@@ -24,9 +24,9 @@ jobs:
 
           git fetch origin
 
-          git checkout feature-branch
+          git checkout branch-2
 
-          git pull origin feature-branch
+          git pull origin branch-2
 
           git merge origin/main
 
