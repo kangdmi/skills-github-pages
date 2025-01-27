@@ -1,6 +1,7 @@
 <!--What is the URL of your website? -->
+My WebSite
 
-<a href="https://kangdmi.github.io/skills-github-pages/">https://kangdmi.github.io/skills-github-pages/</a>
+<a href="https://kangdmi.github.io/skills-github-pages/" target="_blank"> https://kangdmi.github.io/skills-github-pages/</a>
 
 <!--Is the website hosted using GitHub Pages?
 
