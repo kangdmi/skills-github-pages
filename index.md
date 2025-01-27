@@ -7,6 +7,8 @@ I am doing Introduction to DevSecOps course to learn about DevSecOps.
 
 This is my assignment to build multipage web site on github.
 
+Added image in Introduction page to practise.
+
 It has to be mininmum five pages.
 
 Following pages added for practise
@@ -17,5 +19,10 @@ Following pages added for practise
 
 [Best Practices](Page5.md)
 
+
+<!---
 ![Logo](logoDevSecOps.png)
-<img src=https://kangdmi.github.io/skills-github-pages/logoDevSecOps.png alt=celebrate width=150 align=left>
+-->
+  [My Training Resource](Page6.md)
+
+Test text
