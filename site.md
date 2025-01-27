@@ -1,8 +1,8 @@
-What is the URL of your website?
+<!--What is the URL of your website? -->
 
 <a href="https://kangdmi.github.io/skills-github-pages/">https://kangdmi.github.io/skills-github-pages/</a>
 
-Is the website hosted using GitHub Pages?
+<!--Is the website hosted using GitHub Pages?
 
 Yes. The site contains github.io in the URL.
 
@@ -25,4 +25,4 @@ Please review it below
 
 
 Thank you
-
+-->
