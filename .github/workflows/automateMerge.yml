@@ -28,6 +28,6 @@ jobs:
 
           git pull origin branch-2
 
-          git mergebranch-2/branch-1
+          git merge branch-2/branch-1
 
           git push origin branch-2
