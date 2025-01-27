@@ -25,3 +25,4 @@ Following pages added for practise
 -->
   [My Training Resource](Page6.md)
 
+Test text
