@@ -1,6 +1,7 @@
 <!--What is the URL of your website? -->
+My WebSite
 
-<a href="https://kangdmi.github.io/skills-github-pages/">https://kangdmi.github.io/skills-github-pages/</a>
+<a href="https://kangdmi.github.io/skills-github-pages/" target="_blank"> https://kangdmi.github.io/skills-github-pages/</a>
 
 <!--Is the website hosted using GitHub Pages?
 
@@ -17,12 +18,11 @@ Yes. There are five pages including the home page.
 My site
 
 [Link to my site](https://kangdmi.github.io/skills-github-pages/)
-
-Please review it below
+-->
 
 [Review my site here](https://www.coursera.org/learn/introduction-to-devsecops/peer/UiuSv/building-a-website/review/NRA_XtjXEe-roQr_xDOGPw)
 
 
 
 Thank you
--->
+
